@@ -6,8 +6,8 @@
 ## I'm a Frontend Developer!!
 
 - 🔭 I'm a Student
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work with amazing conmpanies
+- 🌱 I’m currently learning Javascripts and Its frameworks. 
+- 👯 I’m looking to work with amazing companies
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and play videogames
 
