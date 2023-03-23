@@ -8,7 +8,7 @@
 - 🔭 I'm a Student
 - 🌱 I’m currently learning Javascripts and Its frameworks. 
 - 👯 I’m looking to work with amazing companies
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and play videogames
 
 ### Connect with me:
