@@ -1,14 +1,14 @@
 ### Hi there, I'm Daniel - aka [SlimmyTee][website] 👋 
 
 [![Website](https://img.shields.io/website?label=slimmytee.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://slimmytee.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Slimmy_Tee_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Slimmy_Tee_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Slimmy_Tee_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/the_umoren_)
 
 ## I'm a Frontend Developer!!
 
 - 🔭 I'm a Student
-- 🌱 I’m currently learning Javascripts and Its frameworks. 
+- 🌱 I’m currently learning Javascript and Its frameworks. 
 - 👯 I’m looking to work with amazing companies
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and play videogames
 
 ### Connect with me:
@@ -39,8 +39,8 @@
 
 
 [website]: https://slimmytee.github.io/
-[twitter]: https://twitter.com/Slimmy_Tee_
-[instagram]: https://www.instagram.com/the_slimmy_tee/
+[twitter]: https://twitter.com/the_umoren_/
+[instagram]: https://www.instagram.com/the_umoren_/
 [linkedin]: https://www.linkedin.com/in/daniel-umoren/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
