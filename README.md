@@ -3,13 +3,9 @@
 [![Website](https://img.shields.io/website?label=slimmytee.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://slimmytee.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Slimmy_Tee_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/the_umoren_)
 
-## I'm a Frontend Developer!!
+## I'm a Software Engineer!
 
-- 🔭 I'm a Student
-- 🌱 I’m currently learning Javascript and Its frameworks. 
-- 👯 I’m looking to work with amazing companies
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movies and play videogames
+
 
 ### Connect with me:
 
